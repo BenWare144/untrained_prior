@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: untrained-prior
+Version: 0.1.0
+Summary: Code for my untrained-prior thesis, saving models, scoring models, saving model activaitons
+Home-page: https://github.com/BenWare144/untrained-prior
+Author: Ben Ware
+Author-email: bwarex@gmail.com
+License: MIT license
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.7
